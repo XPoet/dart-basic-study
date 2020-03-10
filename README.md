@@ -8,6 +8,7 @@
 - [05 Dart循环语句](./05%20Dart循环语句)
 - [06 Dart集合类型List、Set、Map详解](./06%20Dart集合类型List、Set、Map详解)
 - [07 Dart函数](./07%20Dart函数)
+- [08 Dart类](./08%20Dart类)
 
 附：
 - [Dart官网](https://dart.dev/)
