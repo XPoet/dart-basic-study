@@ -1,0 +1,5 @@
+name: dartBasicStudy
+description: dart basic study project.
+dependencies:
+  http: ^0.12.0+2
+  date_format: ^1.0.6
