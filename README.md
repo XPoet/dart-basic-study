@@ -10,6 +10,7 @@
 - [07 Dart函数](./07%20Dart函数)
 - [08 Dart类](./08%20Dart类)
 - [09 Dart接口](./09%20Dart接口)
+- [10 Dart泛型](./10%20Dart泛型)
 
 附：
 - [Dart官网](https://dart.dev/)
