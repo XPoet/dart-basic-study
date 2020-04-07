@@ -22,4 +22,5 @@ Mac 平台下，推荐使用 brew 命令安装
 1. 安装 VS Code 插件：Dart  
 2. 安装 VS Code 插件：Code Runner  
 3. 在当前的 dart 文件里面，右击弹出下拉选项，单击 Run Code，即可运行dart 文件
-   
+
+[下一章：02 Dart命名规则、入口方法、变量和常量](./02%20Dart命名规则、入口方法、变量和常量)
