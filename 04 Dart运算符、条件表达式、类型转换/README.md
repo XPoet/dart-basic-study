@@ -13,4 +13,6 @@
 
  ## Dart类型转换
 *  Number类型转换成String类型 toString()
-*  String类型转成Number类型  int.parse()
+*  String类型转成Number类型 int.parse()
+
+[下一章：05 Dart循环语句](../05%20Dart循环语句)

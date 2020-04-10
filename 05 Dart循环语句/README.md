@@ -47,3 +47,5 @@
 * continue语句的功能：
     1. continue只能在循环语句中使用，使本次循环结束，即跳过循环体的下面尚未执行的语句，接着进行下次的是否执行循环的判断。
     2. continue可以用在 for循环 以及 while循环 中，但是不建议用在 while循环 中，不小心容易死循环。
+
+[下一章：06 Dart集合类型List、Set、Map详解](../06%20Dart集合类型List、Set、Map详解)

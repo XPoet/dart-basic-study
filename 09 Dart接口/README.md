@@ -198,3 +198,5 @@ void main() {
   print(c3 is Person);  // true
 }
 ```
+
+[下一章：10 Dart泛型](../10%20Dart泛型)
